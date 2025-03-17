@@ -11,6 +11,7 @@ Agora que já temos a informação real dos vários componentes que afetam o cre
 2. Adiciona o teu ficheiro CSV com os dados da tua planta.
 3. Muda o nome do teu ficheiro para `mybasil.csv`.
 4. Abre o ficheiro `mybasil.ipynb`
+5. Segue as instruções que se encontram dentro do ficheiro.
 
 
 ## Girassol 🌻
@@ -18,3 +19,4 @@ Agora que já temos a informação real dos vários componentes que afetam o cre
 2. Adiciona o teu ficheiro CSV com os dados da tua planta.
 3. Muda o nome do teu ficheiro para `mysunflower.csv`.
 4. Abre o ficheiro `mysunflower.ipynb`.
+5. Segue as instruções que se encontram dentro do ficheiro.
