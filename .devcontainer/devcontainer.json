@@ -1,0 +1,23 @@
+{
+  "name": "Dev Env",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "features": {
+    "ghcr.io/devcontainers/features/azure-cli:1": {
+      "version": "latest"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-azuretools.vscode-azurecli",
+        "ms-vscode.azure-account",
+        "github.copilot",
+				"github.copilot-chat",
+        "ms-vscode.azure-account"
+      ]
+    }
+  },
+  "postCreateCommand": "pip install --upgrade pip && pip install -r requirements.txt",
+  "remoteUser": "vscode"
+}
